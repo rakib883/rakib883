@@ -1,7 +1,6 @@
-### Hi there 👋, I am Rakib Sheikh
-####  React js developer
 ![ React js developer](https://media.licdn.com/dms/image/v2/D5616AQE9u7RvY-_umw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1692332059753?e=1733356800&v=beta&t=rnDXrXEQYxHnUGcvGoxCI6A1-P7qllxryELA6F2wXT8)
-
+### I am Rakib Sheikh
+####  React js developer
  As a React js developer.My expertise in front-end development,enabling me to create user-friendly and responsive web applications using React and Next js its associated ecosystem.Beyond my technical proficiency, I am known for my strong communication skills and ability to collaborate 
 effectively within a team.I am passionate about continuous growth as a 
 developer and eagerly seek opportunities to make meaningful contributions to projects and teams.
