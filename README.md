@@ -1,4 +1,4 @@
-<h1 align="center" Rakib Sheikh</h1>
+<h1 align="center"> Rakib Sheikh</h1>
 <h3 align="center">React.js developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakib883&label=Profile%20views&color=0e75b6&style=flat" alt="rakib883" /> </p>
