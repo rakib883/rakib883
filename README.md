@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQHS7_vJpCcvLQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728205587223?e=1733961600&v=beta&t=ld_5fZxbK5K_HOnMLJ2YsLmxbuZkSNCRqfMW7HFUnt8" alt="rakib883" />
+<img src="https://i.ibb.co.com/X3f2qvj/Screenshot-2024-11-26-105747.png" alt="rakib883" />
 <h1 align="center"> Rakib Sheikh</h1>
 <h3 align="center">MERN Stack developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakib883&label=Profile%20views&color=0e75b6&style=flat" alt="rakib883" /> </p>
